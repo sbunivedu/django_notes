@@ -6,9 +6,9 @@ In software development, managing dependencies is crucial to ensure stability an
 
 ### **Semantic Versioning (SemVer) Basics**
 A version number follows the format:
-\[
+$$
 \text{MAJOR}.\text{MINOR}.\text{PATCH}
-\]
+$$
 For example: `1.4.2`
 
 1. **MAJOR (1)** – Incremented when there are incompatible API changes.
